@@ -1,4 +1,5 @@
 # Robinhood & CRSP Retail Investor Flow – Behavioral Analytics
+---
 
 ## Project Overview
 This project explores **retail investor behavior** using holdings data from **RobinTrack (Robinhood)** and **security identifiers from CRSP**.  
